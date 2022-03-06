@@ -14,4 +14,5 @@
     <string name="last_name">Last name</string>
     <string name="commit">Commit</string>
     <string name="please_insert_value">Please insert value</string>
+    <string name="description">Opis</string>
 </resources>

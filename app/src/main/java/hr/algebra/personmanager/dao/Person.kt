@@ -10,7 +10,8 @@ data class Person(
     var firstName: String? = null,
     var lastName: String? = null,
     var picturePath: String? = null,
-    var birthDate: LocalDate = LocalDate.now()
+    var birthDate: LocalDate = LocalDate.now(),
+    var bio: String? = null
 ){
     override fun toString() = "$firstName $lastName"
 }
